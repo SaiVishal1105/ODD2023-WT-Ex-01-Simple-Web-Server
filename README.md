@@ -1,7 +1,6 @@
 # Ex-01-Simple-Web-Server
-## Name: SAI VISHAL D
-## Ref.no.: 23013576
-## Date: 10.11.2023
+NAME: SAI VISHAL D
+REG.NO: 212223230180
 
 ## AIM:
 To develop a simple webserver to serve html pages.
@@ -54,11 +53,8 @@ httpd.serve_forever()
 
 
 ```
-
-
 ## OUTPUT:
 ![Alt text](<Screenshot 2023-11-10 103726.png>)
-
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
